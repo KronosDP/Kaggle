@@ -1,0 +1,5 @@
+nan on no_family_residing should be filled with 1 because of the test value
+nan on residential_type should be filled with Non-residential because of the test value
+nan on industrial_use_type should be filled with Non-industrial because of test value
+
+outlier on floors_before_eq (total) is important. it affects test.
