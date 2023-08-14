@@ -1,0 +1,5 @@
+FE ideas:
+given date, awe want to know day (mon, tues, etc)
+
+from 1_make_data_sequential:
+notice ada yang bolong datanya (tiap date sih ada, tapi per jam nya mungkin hilang). Anyways, this happens on train and tsst
