@@ -8,6 +8,8 @@ I am thrilled that this repository is not a static reflection of my past works a
 
 The newest thing that I learned is about data scrapping. It helped me a lot when doing feature engineering for the ristek datathon competition. It was definitely something interesting that I think I will use in the future.
 
+Notice that I have `Detik Scrapping` on my Scrapping Challenge folder. That is my trial to use the Detik unofficial API to do webscrapping. Please refer to (this github repository)[https://github.com/Ucok23/detiknews_api] for more information.
+
 ## Purpose and Motivation
 
 The primary purpose of this repository remains unwavering - to demonstrate my skills and abilities as a data scientist while fostering a platform for collaborative learning and knowledge sharing. With each project, I strive to delve deeper into complex problems, explore cutting-edge techniques, and derive actionable insights that positively impact me.
