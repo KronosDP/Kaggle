@@ -6,6 +6,8 @@ Hello, and welcome to my Kaggle repository! This collection showcases some excit
 
 I am thrilled that this repository is not a static reflection of my past works alone. As a fervent advocate of continuous learning and improvement, I actively update this repository with newer projects I have recently completed or will be working on shortly. By regularly adding fresh content, I aim to showcase my ongoing growth as a data scientist and keep abreast of the latest advancements in the field.
 
+The newest thing that I learned is about data scrapping. It helped me a lot when doing feature engineering for the ristek datathon competition. It was definitely something interesting that I think I will use in the future.
+
 ## Purpose and Motivation
 
 The primary purpose of this repository remains unwavering - to demonstrate my skills and abilities as a data scientist while fostering a platform for collaborative learning and knowledge sharing. With each project, I strive to delve deeper into complex problems, explore cutting-edge techniques, and derive actionable insights that positively impact me.
